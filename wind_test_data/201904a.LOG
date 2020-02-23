@@ -1,0 +1,393 @@
+ALBATROS power system v 1.0
+2019/04/16 11:07:38
+2019/04/16 11:07:39                                    data age cutoff =  TRUE
+2019/04/16 11:07:39                                            daytime =  TRUE
+2019/04/16 11:07:41                                    data age cutoff = FALSE
+2019/04/16 11:10:04                           battery measurement time =  TRUE
+2019/04/16 11:12:00                           battery measurement time = FALSE
+2019/04/16 11:12:00                                     Computed slope =   0.006
+2019/04/16 11:12:01                                          Intercept = 24939.461
+2019/04/16 11:12:01                                    Projected value = 26023.570
+2019/04/16 11:12:01                                     Run during day =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 11:17:18
+2019/04/16 11:17:19                                    data age cutoff =  TRUE
+2019/04/16 11:17:19                                            daytime =  TRUE
+2019/04/16 11:17:20                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 11:34:43
+2019/04/16 11:34:44                                            daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 11:34:51
+2019/04/16 11:34:52                                    data age cutoff =  TRUE
+2019/04/16 11:34:52                                            daytime =  TRUE
+2019/04/16 11:34:53                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 11:37:15
+2019/04/16 11:37:16                                    data age cutoff =  TRUE
+2019/04/16 11:37:16                                            daytime =  TRUE
+2019/04/16 11:37:17                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 11:37:21
+2019/04/16 11:37:22                                    data age cutoff =  TRUE
+2019/04/16 11:37:22                                            daytime =  TRUE
+2019/04/16 11:37:23                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 11:37:24
+2019/04/16 11:37:25                                            daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 11:39:06
+2019/04/16 11:39:07                                    data age cutoff =  TRUE
+2019/04/16 11:39:07                                            daytime =  TRUE
+2019/04/16 11:39:08                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 11:39:14
+2019/04/16 11:39:15                                    data age cutoff =  TRUE
+2019/04/16 11:39:15                                            daytime =  TRUE
+2019/04/16 11:39:17                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 11:43:13
+2019/04/16 11:43:14                                    data age cutoff =  TRUE
+2019/04/16 11:43:14                                            daytime =  TRUE
+2019/04/16 11:43:15                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 12:56:28
+2019/04/16 12:56:29                                    data age cutoff =  TRUE
+2019/04/16 12:56:29                                            daytime =  TRUE
+2019/04/16 12:56:30                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:01:01
+2019/04/16 13:01:02                                    data age cutoff =  TRUE
+2019/04/16 13:01:02                                            daytime =  TRUE
+2019/04/16 13:01:03                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:01:32
+2019/04/16 13:01:33                                    data age cutoff =  TRUE
+2019/04/16 13:01:33                                            daytime =  TRUE
+2019/04/16 13:01:34                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:02:22
+2019/04/16 13:02:23                                    data age cutoff =  TRUE
+2019/04/16 13:02:23                                            daytime =  TRUE
+2019/04/16 13:02:24                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:02:30
+2019/04/16 13:02:30                                    data age cutoff =  TRUE
+2019/04/16 13:02:31                                            daytime =  TRUE
+2019/04/16 13:02:31                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:03:35
+2019/04/16 13:03:36                                    data age cutoff =  TRUE
+2019/04/16 13:03:36                                            daytime =  TRUE
+2019/04/16 13:03:37                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:04:46
+2019/04/16 13:04:47                                    data age cutoff =  TRUE
+2019/04/16 13:04:47                                            daytime =  TRUE
+2019/04/16 13:04:48                                    data age cutoff = FALSE
+set
+2019/04/16 13:05:07                                    LV cutoff 24940 =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 13:10:21
+2019/04/16 13:10:22                                    data age cutoff =  TRUE
+2019/04/16 13:10:22                                            daytime =  TRUE
+2019/04/16 13:10:23                                    data age cutoff = FALSE
+set 0 25000
+2019/04/16 13:10:30                                    LV cutoff 24940 =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 13:13:53
+2019/04/16 13:13:54                                    data age cutoff =  TRUE
+2019/04/16 13:13:54                                            daytime =  TRUE
+2019/04/16 13:13:55                                    data age cutoff = FALSE
+set 0 25000
+2019/04/16 13:14:15                                    LV cutoff 24940 =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 13:15:25
+2019/04/16 13:15:26                                            daytime =  TRUE
+2019/04/16 13:15:30                                        set 0 25000
+2019/04/16 13:15:30                                    LV cutoff 24940 =  TRUE
+2019/04/16 13:15:55                                              reset
+ALBATROS power system v 1.0
+2019/04/16 13:15:55
+2019/04/16 13:15:56                                    data age cutoff =  TRUE
+2019/04/16 13:15:56                                            daytime =  TRUE
+2019/04/16 13:15:57                                    data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:17:07
+2019/04/16 13:17:08                data age cutoff =  TRUE
+2019/04/16 13:17:08                        daytime =  TRUE
+2019/04/16 13:17:09                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 13:42:04
+2019/04/16 13:42:05                data age cutoff =  TRUE
+2019/04/16 13:42:05                        daytime =  TRUE
+2019/04/16 13:42:06                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:06:37
+2019/04/16 14:06:38                data age cutoff =  TRUE
+2019/04/16 14:06:38                        daytime =  TRUE
+2019/04/16 14:06:39                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:09:37
+2019/04/16 14:09:38                        daytime =  TRUE
+2019/04/16 14:10:28                                        set 5 14:11
+2019/04/16 14:11:00                        daytime = FALSE
+2019/04/16 14:11:00                        load ON =  TRUE
+2019/04/16 14:11:52                                              reset
+ALBATROS power system v 1.0
+2019/04/16 14:11:52
+2019/04/16 14:11:53                data age cutoff =  TRUE
+2019/04/16 14:11:53                        daytime =  TRUE
+2019/04/16 14:11:54                data age cutoff = FALSE
+2019/04/16 14:12:39                                        set 4 14:13
+2019/04/16 14:12:39                        daytime = FALSE
+2019/04/16 14:12:39                        load ON =  TRUE
+2019/04/16 14:13:00                        daytime =  TRUE
+2019/04/16 14:13:00                        load ON = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:18:20
+2019/04/16 14:18:21                data age cutoff =  TRUE
+2019/04/16 14:18:21                        daytime =  TRUE
+2019/04/16 14:18:23                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:19:04
+2019/04/16 14:19:05                data age cutoff =  TRUE
+2019/04/16 14:19:05                        daytime =  TRUE
+2019/04/16 14:19:06                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:19:40
+2019/04/16 14:19:41                data age cutoff =  TRUE
+2019/04/16 14:19:41                        daytime =  TRUE
+2019/04/16 14:19:42                data age cutoff = FALSE
+2019/04/16 14:20:10                                        set 5 14:21
+2019/04/16 14:21:00                        daytime = FALSE
+2019/04/16 14:21:00                        load ON =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 14:38:02
+2019/04/16 14:38:03                data age cutoff =  TRUE
+2019/04/16 14:38:03                        daytime =  TRUE
+2019/04/16 14:38:04                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:38:17
+2019/04/16 14:38:18                data age cutoff =  TRUE
+2019/04/16 14:38:18                        daytime =  TRUE
+2019/04/16 14:38:19                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:39:05
+2019/04/16 14:39:06                data age cutoff =  TRUE
+2019/04/16 14:39:06                        daytime =  TRUE
+2019/04/16 14:39:07                data age cutoff = FALSE
+2019/04/16 14:39:55                                        set 5 14:00
+2019/04/16 14:39:55                        daytime = FALSE
+2019/04/16 14:39:55                        load ON =  TRUE
+2019/04/16 14:44:11                                           set 5 15
+2019/04/16 14:44:11                        daytime =  TRUE
+2019/04/16 14:44:11                        load ON = FALSE
+2019/04/16 14:46:39                LV cutoff 21620 =  TRUE
+2019/04/16 14:47:11                LV cutoff 25550 = FALSE
+ALBATROS power system v 1.0
+2019/04/16 14:51:12
+2019/04/16 14:51:13                data age cutoff =  TRUE
+2019/04/16 14:51:13                        daytime =  TRUE
+2019/04/16 14:51:14                data age cutoff = FALSE
+2019/04/16 14:51:41                                           set 5 14
+2019/04/16 14:51:41                        daytime = FALSE
+2019/04/16 14:51:41                        load ON =  TRUE
+ALBATROS power system v 1.0
+2019/04/16 14:52:25
+2019/04/16 14:52:26                data age cutoff =  TRUE
+2019/04/16 14:52:26                        daytime =  TRUE
+2019/04/16 14:52:27                data age cutoff = FALSE
+2019/04/16 14:52:42                                           set 5 14
+2019/04/16 14:52:43                        daytime = FALSE
+2019/04/16 14:52:43                        load ON =  TRUE
+2019/04/16 14:54:33                 LV cutoff 2350 =  TRUE
+2019/04/16 14:54:33                        load ON = FALSE
+ALBATROS power system v 1.0
+2019/04/18 17:27:13
+2019/04/18 17:27:14                data age cutoff =  TRUE
+2019/04/18 17:27:14                        daytime =  TRUE
+2019/04/18 17:29:08                    LV cutoff 0 =  TRUE
+2019/04/18 17:29:08                data age cutoff = FALSE
+2019/04/18 17:29:09                LV cutoff 25240 = FALSE
+2019/04/18 17:31:14                                           set 5 17
+2019/04/18 17:31:14                        daytime = FALSE
+2019/04/18 17:31:14                        load ON =  TRUE
+2019/04/18 20:00:00       battery measurement time =  TRUE
+2019/04/19 05:00:00       battery measurement time = FALSE
+2019/04/19 05:00:00                                     Computed slope =   0.001
+2019/04/19 05:00:00                                          Intercept = 25206.262
+2019/04/19 05:00:00                                    Projected value = 25317.387
+2019/04/19 05:00:00                 Run during day =  TRUE
+2019/04/19 06:00:00                        daytime =  TRUE
+2019/04/19 06:00:00                        load ON = FALSE
+2019/04/19 17:00:00                        daytime = FALSE
+2019/04/19 17:00:00                        load ON =  TRUE
+2019/04/19 20:00:00       battery measurement time =  TRUE
+2019/04/20 05:00:00       battery measurement time = FALSE
+2019/04/20 05:00:00                                     Computed slope =  -0.002
+2019/04/20 05:00:00                                          Intercept = 25234.547
+2019/04/20 05:00:00                                    Projected value = 24965.828
+2019/04/20 05:00:00                 Run during day =  TRUE
+2019/04/20 06:00:00                        daytime =  TRUE
+2019/04/20 06:00:01                        load ON = FALSE
+2019/04/20 17:00:00                        daytime = FALSE
+2019/04/20 17:00:00                        load ON =  TRUE
+2019/04/20 20:00:00       battery measurement time =  TRUE
+2019/04/21 05:00:00       battery measurement time = FALSE
+2019/04/21 05:00:00                                     Computed slope =  -0.001
+2019/04/21 05:00:00                                          Intercept = 25205.875
+2019/04/21 05:00:00                                    Projected value = 25080.764
+2019/04/21 05:00:00                 Run during day =  TRUE
+2019/04/21 06:00:00                        daytime =  TRUE
+2019/04/21 06:00:00                        load ON = FALSE
+2019/04/21 17:00:00                        daytime = FALSE
+2019/04/21 17:00:00                        load ON =  TRUE
+2019/04/21 20:00:00       battery measurement time =  TRUE
+2019/04/22 05:00:00       battery measurement time = FALSE
+2019/04/22 05:00:00                                     Computed slope =   0.000
+2019/04/22 05:00:00                                          Intercept = 25162.559
+2019/04/22 05:00:00                                    Projected value = 25238.496
+2019/04/22 05:00:00                 Run during day =  TRUE
+2019/04/22 06:00:00                        daytime =  TRUE
+2019/04/22 06:00:00                        load ON = FALSE
+2019/04/22 17:00:00                        daytime = FALSE
+2019/04/22 17:00:00                        load ON =  TRUE
+2019/04/22 20:00:00       battery measurement time =  TRUE
+2019/04/23 05:00:00       battery measurement time = FALSE
+2019/04/23 05:00:00                                     Computed slope =   0.000
+2019/04/23 05:00:01                                          Intercept = 25161.203
+2019/04/23 05:00:01                                    Projected value = 25226.139
+2019/04/23 05:00:01                 Run during day =  TRUE
+2019/04/23 06:00:00                        daytime =  TRUE
+2019/04/23 06:00:00                        load ON = FALSE
+ALBATROS power system v 1.0
+2019/04/23 12:37:29
+2019/04/23 12:37:31                data age cutoff =  TRUE
+2019/04/23 12:37:31                        daytime =  TRUE
+2019/04/23 12:37:32                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/23 12:45:17
+2019/04/23 12:45:18                        daytime =  TRUE
+2019/04/23 12:45:35                                           set 9 10
+2019/04/23 12:45:59                data age cutoff =  TRUE
+2019/04/23 12:46:18                data age cutoff = FALSE
+2019/04/23 12:48:35                data age cutoff =  TRUE
+2019/04/23 12:48:49                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/23 12:50:27
+2019/04/23 12:50:28                        daytime =  TRUE
+2019/04/23 12:51:02                                           set 9 10
+2019/04/23 12:51:03                data age cutoff =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 12:52:39
+2019/04/23 12:52:40                        daytime =  TRUE
+2019/04/23 12:52:53                                           set 9 10
+2019/04/23 12:52:53                data age cutoff =  TRUE
+2019/04/23 12:55:38                data age cutoff = FALSE
+ALBATROS power system v 1.0
+2019/04/23 12:59:25
+2019/04/23 12:59:26                        daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 13:38:24
+2019/04/23 13:38:26                        daytime =  TRUE
+2019/04/23 13:39:02                                           set 9 10
+2019/04/23 13:39:25                data age cutoff =  TRUE
+2019/04/23 13:40:10                data age cutoff = FALSE
+2019/04/23 13:59:11                                              reset
+ALBATROS power system v 1.0
+2019/04/23 13:59:11
+2019/04/23 13:59:12                        daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 14:29:26
+2019/04/23 14:29:28                        daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 15:36:31
+2019/04/23 15:36:32                        daytime =  TRUE
+2019/04/23 15:36:33                        daytime =  TRUE
+2019/04/23 16:02:40                 LV cutoff 6590 =  TRUE
+2019/04/23 16:03:14                LV cutoff 25550 = FALSE
+2019/04/23 16:03:29                        daytime =  TRUE
+2019/04/23 16:03:59                LV cutoff 24290 =  TRUE
+2019/04/23 16:04:07                LV cutoff 25560 = FALSE
+2019/04/23 16:04:25                        daytime =  TRUE
+2019/04/23 16:04:51                LV cutoff 20730 =  TRUE
+2019/04/23 16:04:54                LV cutoff 25560 = FALSE
+2019/04/23 16:05:09                LV cutoff 22780 =  TRUE
+2019/04/23 16:05:16                        daytime =  TRUE
+2019/04/23 16:06:53                        daytime =  TRUE
+2019/04/23 16:07:27                LV cutoff 25560 = FALSE
+2019/04/23 16:07:39                        daytime =  TRUE
+2019/04/23 16:07:42                        daytime =  TRUE
+2019/04/23 16:08:14                        daytime =  TRUE
+2019/04/23 16:08:49                        daytime =  TRUE
+2019/04/23 16:09:39                        daytime =  TRUE
+2019/04/23 16:09:45                        daytime =  TRUE
+2019/04/23 16:09:50                        daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 16:12:36
+2019/04/23 16:12:37                        daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 16:13:55
+2019/04/23 16:13:57                        daytime =  TRUE
+2019/04/23 16:14:34                        load ON = FALSE
+2019/04/23 16:15:12                LV cutoff 23850 =  TRUE
+2019/04/23 16:15:16                LV cutoff 25560 = FALSE
+ALBATROS power system v 1.0
+2019/04/23 16:31:13
+2019/04/23 16:31:14                        daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 16:31:41
+2019/04/23 16:31:42                        daytime =  TRUE
+2019/04/23 16:31:57                LV cutoff 23410 =  TRUE
+2019/04/23 16:32:00                LV cutoff 25560 = FALSE
+ALBATROS power system v 1.0
+2019/04/23 16:35:03
+2019/04/23 16:35:04                        daytime =  TRUE
+2019/04/23 16:36:43                LV cutoff 21770 =  TRUE
+2019/04/23 16:39:11                LV cutoff 25620 = FALSE
+2019/04/23 16:43:07                    LV cutoff 0 =  TRUE
+2019/04/23 16:43:08                LV cutoff 25620 = FALSE
+2019/04/23 16:45:10                LV cutoff 23040 =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 16:48:57
+2019/04/23 16:48:58                        daytime =  TRUE
+ALBATROS power system v 1.0
+2019/04/23 16:51:32
+2019/04/23 16:51:33                        daytime =  TRUE
+2019/04/23 18:00:00                        daytime = FALSE
+2019/04/23 18:00:00                        load ON =  TRUE
+2019/04/23 18:05:45                        load ON =  TRUE
+2019/04/23 18:38:17                        load ON =  TRUE
+2019/04/23 20:00:00       battery measurement time =  TRUE
+2019/04/23 20:40:17                        load ON =  TRUE
+2019/04/23 20:41:18                        load ON =  TRUE
+2019/04/23 21:40:16                        load ON =  TRUE
+2019/04/23 22:31:06                        load ON =  TRUE
+2019/04/23 22:32:07                        load ON =  TRUE
+2019/04/23 23:21:56                data age cutoff =  TRUE
+2019/04/23 23:21:57                data age cutoff = FALSE
+2019/04/23 23:21:57                        load ON =  TRUE
+2019/04/23 23:57:31                        load ON =  TRUE
+2019/04/24 00:36:09                        load ON =  TRUE
+2019/04/24 01:12:45                        load ON =  TRUE
+2019/04/24 01:58:30                        load ON =  TRUE
+2019/04/24 02:45:16                        load ON =  TRUE
+2019/04/24 04:09:39                        load ON =  TRUE
+2019/04/24 04:11:41                        load ON =  TRUE
+2019/04/24 05:00:00       battery measurement time = FALSE
+2019/04/24 05:00:00                                     Computed slope =  -0.009
+2019/04/24 05:00:00                                          Intercept = 25550.064
+2019/04/24 05:00:00                                    Projected value = 24024.352
+2019/04/24 05:00:00                 Run during day = FALSE
+2019/04/24 05:10:39                        load ON =  TRUE
+2019/04/24 06:00:00                        daytime =  TRUE
+2019/04/24 06:00:00                        load ON = FALSE
+2019/04/24 06:16:44                data age cutoff =  TRUE
+2019/04/24 06:16:45                data age cutoff = FALSE
+2019/04/24 09:00:25                data age cutoff =  TRUE
+2019/04/24 09:00:26                data age cutoff = FALSE
+2019/04/24 12:04:11                data age cutoff =  TRUE
+2019/04/24 12:04:12                data age cutoff = FALSE
+2019/04/24 13:27:33                data age cutoff =  TRUE
+2019/04/24 13:27:34                data age cutoff = FALSE

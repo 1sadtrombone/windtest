@@ -1,0 +1,12 @@
+20200207 - 20200212
+Wind turbine, no cage, old anemometer in port 1, nearer to the turbine. Current in Amps
+
+20200217 - 20200219
+Wind turbine, caged, old anemometer in port 1 near the turbine, new anemometer in port 2 farther. Current in mA
+
+20200219 - 20200221
+Anemometers swapped 15:38 to 15:44 EST
+Wind turbine, caged, old anemometer in port 2 farther, new anemometer in port 1 near the turbine. Current in mA
+
+20200222 - 
+Blades removed, old anemometer in port 1 near turbine, new anemometer on inside of the roof of the cage. Current in mA

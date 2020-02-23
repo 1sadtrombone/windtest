@@ -1,0 +1,76 @@
+2019/04/28 14:47:21
+Compile date: Apr 28 2019 time: 14:41:28
+Git hash: e0e9ee34bdedcb38e329cd19e25a0a7f41361785
+2019/04/28 14:47:23                        daytime =  TRUE
+2019/04/28 15:57:15           Assert fail line 220
+2019/04/28 15:57:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 18:00:00                        daytime = FALSE
+2019/04/28 18:00:00                        load ON =  TRUE
+2019/04/28 19:28:58           Assert fail line 220
+2019/04/28 19:28:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 20:00:00       battery measurement time =  TRUE
+2019/04/28 22:45:40           Assert fail line 220
+2019/04/28 22:45:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/29 05:00:00       battery measurement time = FALSE
+2019/04/29 05:00:00                 Computed slope = -0.00157
+2019/04/29 05:00:00                      Intercept = 24693.29500
+2019/04/29 05:00:00                Projected value = 24421.79300
+2019/04/29 05:00:00                 Run during day = FALSE
+2019/04/29 06:00:00                        daytime =  TRUE
+2019/04/29 06:00:00                        load ON = FALSE
+2019/04/29 10:27:39           Assert fail line 220
+2019/04/29 10:27:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/29 12:33:19
+Compile date: Apr 29 2019 time: 12:30:42
+Git hash: 2d82da9ae95a865398748f57c88b2de3dcf4d7ef
+2019/04/29 12:33:21                        daytime =  TRUE
+2019/04/29 15:27:05           Assert fail line 220
+2019/04/29 15:27:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/29 17:43:55           Assert fail line 220
+2019/04/29 17:43:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/29 18:00:00                        daytime = FALSE
+2019/04/29 18:00:00                        load ON =  TRUE
+2019/04/29 18:51:48           Assert fail line 220
+2019/04/29 18:51:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/29 19:18:47           Assert fail line 220
+2019/04/29 19:18:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/29 20:00:00       battery measurement time =  TRUE
+2019/04/30 00:28:19           Assert fail line 220
+2019/04/30 00:28:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/30 00:58:17           Assert fail line 220
+2019/04/30 00:58:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/30 02:01:13           Assert fail line 220
+2019/04/30 02:01:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/30 05:00:00       battery measurement time = FALSE
+2019/04/30 05:00:00                 Computed slope = -0.00789
+2019/04/30 05:00:00                      Intercept = 26101.36100
+2019/04/30 05:00:01                Projected value = 24737.34600
+2019/04/30 05:00:01                 Run during day =  TRUE
+2019/04/30 06:00:00                        daytime =  TRUE
+2019/04/30 06:00:00                        load ON = FALSE
+2019/04/30 07:11:45           Assert fail line 220
+2019/04/30 07:11:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/30 09:42:37 Overriding flag 5, new value is 1
+2019/04/30 09:42:38                        load ON =  TRUE
+2019/04/30 09:42:41 Overriding flag 5, new value is 0
+2019/04/30 09:42:41                        load ON = FALSE
+2019/04/30 09:46:47
+Compile date: Apr 29 2019 time: 12:30:42
+Git hash: 2d82da9ae95a865398748f57c88b2de3dcf4d7ef
+2019/04/30 09:46:48                        daytime =  TRUE
+2019/04/30 09:49:17
+Compile date: Apr 30 2019 time: 09:46:31
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749
+2019/04/30 09:49:18                        daytime =  TRUE
+2019/04/30 09:52:17                data age cutoff =  TRUE 180418 180000
+2019/04/30 09:59:05
+Compile date: Apr 30 2019 time: 09:46:31
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749
+2019/04/30 09:59:07                        daytime =  TRUE
+2019/04/30 16:42:31           Assert fail line 220
+2019/04/30 16:42:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/30 16:59:29           Assert fail line 220
+2019/04/30 16:59:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/30 18:00:00                        daytime = FALSE
+2019/04/30 18:00:00                        load ON =  TRUE
+2019/04/30 20:00:00       battery measurement time =  TRUE

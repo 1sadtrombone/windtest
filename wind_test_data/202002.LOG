@@ -1,0 +1,293 @@
+2020/02/07 14:40:15
+Compile date: Feb  7 2020 time: 14:37:44
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:40:16                        daytime =  TRUE
+2020/02/07 14:40:51
+Compile date: Feb  7 2020 time: 14:38:22
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:40:53
+Compile date: Feb  7 2020 time: 14:38:22
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:40:54                        daytime =  TRUE
+2020/02/07 14:41:20
+Compile date: Feb  7 2020 time: 14:38:50
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:41:22
+Compile date: Feb  7 2020 time: 14:38:50
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:41:23                        daytime =  TRUE
+2020/02/07 14:44:48
+Compile date: Feb  7 2020 time: 14:38:50
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:44:50                        daytime =  TRUE
+2020/02/07 14:46:12
+Compile date: Feb  7 2020 time: 14:38:50
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:46:14                        daytime =  TRUE
+2020/02/07 14:48:02
+Compile date: Feb  7 2020 time: 14:45:33
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:48:04
+Compile date: Feb  7 2020 time: 14:45:33
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:48:06                        daytime =  TRUE
+2020/02/07 14:49:50
+Compile date: Feb  7 2020 time: 14:47:20
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:49:51                        daytime =  TRUE
+2020/02/07 14:50:50
+Compile date: Feb  7 2020 time: 14:47:20
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:50:51                        daytime =  TRUE
+2020/02/07 14:51:42
+Compile date: Feb  7 2020 time: 14:47:20
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:51:43                        daytime =  TRUE
+2020/02/07 14:51:57
+Compile date: Feb  7 2020 time: 14:49:27
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:51:59                        daytime =  TRUE
+2020/02/07 14:57:32
+Compile date: Feb  7 2020 time: 14:54:19
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 14:57:33                        daytime =  TRUE
+2020/02/07 15:17:09
+Compile date: Feb  7 2020 time: 14:54:19
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 15:17:10                        daytime =  TRUE
+2020/02/07 15:17:23
+Compile date: Feb  7 2020 time: 15:14:54
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 15:17:25
+Compile date: Feb  7 2020 time: 15:14:54
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 15:17:26                        daytime =  TRUE
+2020/02/07 15:22:26                data age cutoff =  TRUE
+2020/02/07 16:06:58
+Compile date: Feb  7 2020 time: 15:14:54
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/07 16:07:00                        daytime =  TRUE
+2020/02/07 16:11:59                data age cutoff =  TRUE
+2020/02/07 18:00:00                        daytime = FALSE
+2020/02/07 23:00:00       battery measurement time =  TRUE
+2020/02/08 05:00:00       battery measurement time = FALSE
+2020/02/08 05:00:00                 Computed slope =     NAN
+2020/02/08 05:00:01                      Intercept =     NAN
+2020/02/08 05:00:01                Projected value =     NAN
+2020/02/08 05:00:01                 Run during day = FALSE
+2020/02/08 06:00:00                        daytime =  TRUE
+2020/02/08 18:00:00                        daytime = FALSE
+2020/02/08 23:00:00       battery measurement time =  TRUE
+2020/02/09 05:00:00       battery measurement time = FALSE
+2020/02/09 05:00:00                 Computed slope =     NAN
+2020/02/09 05:00:00                      Intercept =     NAN
+2020/02/09 05:00:00                Projected value =     NAN
+2020/02/09 05:00:00                 Run during day = FALSE
+2020/02/09 06:00:00                        daytime =  TRUE
+2020/02/09 18:00:00                        daytime = FALSE
+2020/02/09 23:00:00       battery measurement time =  TRUE
+2020/02/10 05:00:00       battery measurement time = FALSE
+2020/02/10 05:00:00                 Computed slope =     NAN
+2020/02/10 05:00:00                      Intercept =     NAN
+2020/02/10 05:00:00                Projected value =     NAN
+2020/02/10 05:00:00                 Run during day = FALSE
+2020/02/10 06:00:00                        daytime =  TRUE
+2020/02/10 18:00:00                        daytime = FALSE
+2020/02/10 23:00:00       battery measurement time =  TRUE
+2020/02/11 05:00:00       battery measurement time = FALSE
+2020/02/11 05:00:00                 Computed slope =     NAN
+2020/02/11 05:00:00                      Intercept =     NAN
+2020/02/11 05:00:01                Projected value =     NAN
+2020/02/11 05:00:01                 Run during day = FALSE
+2020/02/11 06:00:00                        daytime =  TRUE
+2020/02/11 18:00:00                        daytime = FALSE
+2020/02/11 23:00:00       battery measurement time =  TRUE
+2020/02/12 05:00:00       battery measurement time = FALSE
+2020/02/12 05:00:00                 Computed slope =     NAN
+2020/02/12 05:00:00                      Intercept =     NAN
+2020/02/12 05:00:00                Projected value =     NAN
+2020/02/12 05:00:00                 Run during day = FALSE
+2020/02/12 06:00:00                        daytime =  TRUE
+2020/02/12 16:31:25
+Compile date: Feb  7 2020 time: 15:14:54
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/12 16:31:26                        daytime =  TRUE
+2020/02/12 16:31:43
+Compile date: Feb  7 2020 time: 15:14:54
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/12 16:31:44                        daytime =  TRUE
+2020/02/12 16:36:44                data age cutoff =  TRUE
+2020/02/17 14:01:45
+Compile date: Feb  7 2020 time: 15:14:54
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 14:01:46                        daytime =  TRUE
+2020/02/17 14:35:40
+Compile date: Feb  7 2020 time: 15:14:54
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 14:35:42                        daytime =  TRUE
+2020/02/17 14:36:09
+Compile date: Feb 17 2020 time: 14:32:47
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 14:36:10                        daytime =  TRUE
+2020/02/17 14:37:23
+Compile date: Feb 17 2020 time: 14:32:47
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 14:37:24                        daytime =  TRUE
+2020/02/17 14:42:24                data age cutoff =  TRUE
+2020/02/17 14:57:28
+Compile date: Feb 17 2020 time: 14:54:07
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 14:57:30                        daytime =  TRUE
+2020/02/17 15:02:29                data age cutoff =  TRUE
+2020/02/17 15:02:39
+Compile date: Feb 17 2020 time: 14:54:07
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:02:41                        daytime =  TRUE
+2020/02/17 15:03:56                rm 20200217.CSV
+2020/02/17 15:07:40                data age cutoff =  TRUE
+2020/02/17 15:08:02
+Compile date: Feb 17 2020 time: 14:54:07
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:08:04                        daytime =  TRUE
+2020/02/17 15:13:03                data age cutoff =  TRUE
+2020/02/17 15:23:14
+Compile date: Feb 17 2020 time: 14:54:07
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:23:15                        daytime =  TRUE
+2020/02/17 15:26:39
+Compile date: Feb 17 2020 time: 14:54:07
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:26:40                        daytime =  TRUE
+2020/02/17 15:28:22
+Compile date: Feb 17 2020 time: 15:24:59
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:28:23                        daytime =  TRUE
+2020/02/17 15:33:23                data age cutoff =  TRUE
+2020/02/17 15:43:27
+Compile date: Feb 17 2020 time: 15:24:59
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:43:28                        daytime =  TRUE
+2020/02/17 15:43:41
+Compile date: Feb 17 2020 time: 15:24:59
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:43:43                        daytime =  TRUE
+2020/02/17 15:46:11
+Compile date: Feb 17 2020 time: 15:24:59
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:46:12                        daytime =  TRUE
+2020/02/17 15:46:30
+Compile date: Feb 17 2020 time: 15:24:59
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:46:32                        daytime =  TRUE
+2020/02/17 15:47:14
+Compile date: Feb 17 2020 time: 15:24:59
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:47:16                        daytime =  TRUE
+2020/02/17 15:47:34
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:47:35                        daytime =  TRUE
+2020/02/17 15:47:41
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:47:43                        daytime =  TRUE
+2020/02/17 15:52:42                data age cutoff =  TRUE
+2020/02/17 15:58:07
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 15:58:09                        daytime =  TRUE
+2020/02/17 16:00:35
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:00:36                        daytime =  TRUE
+2020/02/17 16:00:52
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:00:53                        daytime =  TRUE
+2020/02/17 16:00:57
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:00:58                        daytime =  TRUE
+2020/02/17 16:02:20
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:02:22                        daytime =  TRUE
+2020/02/17 16:03:46
+Compile date: Feb 17 2020 time: 15:44:12
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:03:47                        daytime =  TRUE
+2020/02/17 16:05:32
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:05:34                        daytime =  TRUE
+2020/02/17 16:07:38
+2020/02/17 16:07:39
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:07:40                        daytime =  TRUE
+2020/02/17 16:08:13
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:08:15                        daytime =  TRUE
+2020/02/17 16:10:36
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:10:38                        daytime =  TRUE
+2020/02/17 16:10:42
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:10:44                        daytime =  TRUE
+2020/02/17 16:10:46
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:10:47                        daytime =  TRUE
+2020/02/17 16:12:32                rm 20200217.CSV
+2020/02/17 16:23:21
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/17 16:23:22                        daytime =  TRUE
+2020/02/17 16:28:22                data age cutoff =  TRUE
+2020/02/17 18:00:00                        daytime = FALSE
+2020/02/17 23:00:00       battery measurement time =  TRUE
+2020/02/18 05:00:00       battery measurement time = FALSE
+2020/02/18 05:00:00                 Computed slope =     NAN
+2020/02/18 05:00:00                      Intercept =     NAN
+2020/02/18 05:00:00                Projected value =     NAN
+2020/02/18 05:00:00                 Run during day = FALSE
+2020/02/18 06:00:00                        daytime =  TRUE
+2020/02/18 18:00:00                        daytime = FALSE
+2020/02/18 23:00:00       battery measurement time =  TRUE
+2020/02/19 05:00:00       battery measurement time = FALSE
+2020/02/19 05:00:00                 Computed slope =     NAN
+2020/02/19 05:00:00                      Intercept =     NAN
+2020/02/19 05:00:00                Projected value =     NAN
+2020/02/19 05:00:00                 Run during day = FALSE
+2020/02/19 06:00:00                        daytime =  TRUE
+2020/02/19 18:00:00                        daytime = FALSE
+2020/02/19 23:00:00       battery measurement time =  TRUE
+2020/02/20 05:00:00       battery measurement time = FALSE
+2020/02/20 05:00:00                 Computed slope =     NAN
+2020/02/20 05:00:00                      Intercept =     NAN
+2020/02/20 05:00:00                Projected value =     NAN
+2020/02/20 05:00:00                 Run during day = FALSE
+2020/02/20 06:00:00                        daytime =  TRUE
+2020/02/20 18:00:00                        daytime = FALSE
+2020/02/20 23:00:00       battery measurement time =  TRUE
+2020/02/21 05:00:00       battery measurement time = FALSE
+2020/02/21 05:00:00                 Computed slope =     NAN
+2020/02/21 05:00:00                      Intercept =     NAN
+2020/02/21 05:00:00                Projected value =     NAN
+2020/02/21 05:00:00                 Run during day = FALSE
+2020/02/21 06:00:00                        daytime =  TRUE
+2020/02/21 11:49:09
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/21 11:49:10                        daytime =  TRUE
+2020/02/21 11:50:26
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/21 11:50:27                        daytime =  TRUE
+2020/02/21 11:50:50
+Compile date: Feb 17 2020 time: 16:02:09
+Git hash: (recipe hook or perl not installed, see README.md)
+2020/02/21 11:50:52                        daytime =  TRUE

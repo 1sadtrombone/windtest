@@ -1,0 +1,1224 @@
+2019/04/26 18:27:23
+Compile date: Apr 26 2019 time: 17:19:13
+Git hash: aa3f7feb9f04a97a373f27f7a4ecfd82f19e61b6 (modified)
+2019/04/26 18:27:24                        load ON =  TRUE
+2019/04/26 19:24:22                       set 9 60
+2019/04/26 19:24:25                            com
+2019/04/26 19:24:44                      set 9 180
+2019/04/26 19:24:45                            com
+2019/04/26 19:43:20
+Compile date: Apr 26 2019 time: 19:41:06
+Git hash: ccc046d6e7db4a862970222efc0a32f7cdb5b243
+2019/04/26 19:43:21                        load ON =  TRUE
+2019/04/26 20:00:00       battery measurement time =  TRUE
+2019/04/27 05:00:00       battery measurement time = FALSE
+2019/04/27 05:00:00                 Computed slope = -0.00236
+2019/04/27 05:00:00                      Intercept = 24891.75800
+2019/04/27 05:00:00                Projected value = 24484.42400
+2019/04/27 05:00:00                 Run during day = FALSE
+2019/04/27 06:00:00                        daytime =  TRUE
+2019/04/27 06:00:00                        load ON = FALSE
+2019/04/27 18:00:00                        daytime = FALSE
+2019/04/27 18:00:00                        load ON =  TRUE
+2019/04/27 20:00:00       battery measurement time =  TRUE
+2019/04/28 05:00:00       battery measurement time = FALSE
+2019/04/28 05:00:00                 Computed slope = -0.00076
+2019/04/28 05:00:00                      Intercept = 24763.73200
+2019/04/28 05:00:00                Projected value = 24632.37900
+2019/04/28 05:00:00                 Run during day =  TRUE
+2019/04/28 06:00:00                        daytime =  TRUE
+2019/04/28 06:00:00                        load ON = FALSE
+2019/04/28 10:20:00 WOULD HAVE WRITTEN 1 LOCATION OUT OF BOUNDS
+2019/04/28 12:17:39
+Compile date: Apr 28 2019 time: 12:15:14
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 12:17:40                        daytime =  TRUE
+2019/04/28 12:19:37
+Compile date: Apr 28 2019 time: 12:17:06
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 12:19:38                        daytime =  TRUE
+2019/04/28 12:20:30                        daytime =  TRUE
+2019/04/28 12:20:42                LV cutoff 24880 = FALSE
+2019/04/28 12:21:20                        load ON =  TRUE
+2019/04/28 12:22:34                        load ON = FALSE
+2019/04/28 12:28:10
+Compile date: Apr 28 2019 time: 12:25:45
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 12:28:11                        daytime =  TRUE
+2019/04/28 12:28:21 Overriding flag 2, new value is 0
+2019/04/28 12:28:21                        daytime =  TRUE
+2019/04/28 12:29:40
+Compile date: Apr 28 2019 time: 12:27:09
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 12:29:42                        daytime =  TRUE
+2019/04/28 12:30:07 Overriding flag 2, new value is 0
+2019/04/28 12:30:07                        daytime =  TRUE
+2019/04/28 12:36:09 Overriding flag 5, new value is 1
+2019/04/28 12:36:09                        load ON =  TRUE
+2019/04/28 12:36:12 Overriding flag 5, new value is 0
+2019/04/28 12:36:13                        load ON = FALSE
+2019/04/28 12:50:58
+Compile date: Apr 28 2019 time: 12:48:26
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 12:50:59                        daytime =  TRUE
+2019/04/28 12:52:16
+Compile date: Apr 28 2019 time: 12:49:45
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 12:52:17                        daytime =  TRUE
+2019/04/28 12:54:44
+Compile date: Apr 28 2019 time: 12:52:12
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 12:54:45                        daytime =  TRUE
+2019/04/28 12:55:23               Sentinel value 4 = 54321.00000
+2019/04/28 13:19:22
+Compile date: Apr 28 2019 time: 13:16:49
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 13:19:23  Assert fail C:\Users\eamon\De
+2019/04/28 13:19:23                        daytime =  TRUE
+2019/04/28 13:20:34
+Compile date: Apr 28 2019 time: 13:18:02
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 13:20:35 Assert fail C:\Users\eamon\Desktop\albatros-power\powertrack\powertra
+2019/04/28 13:20:35                        daytime =  TRUE
+2019/04/28 13:22:08
+Compile date: Apr 28 2019 time: 13:19:36
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 13:22:10            Assert fail line 44
+2019/04/28 13:22:10 C:\Users\eamon\Desktop\albatros-power\powertrack\powertrack.ino
+2019/04/28 13:22:10                        daytime =  TRUE
+2019/04/28 13:38:10
+Compile date: Apr 28 2019 time: 13:35:38
+Git hash: 7413072b7348efab8635c77d43243e8ff71f4e10 (modified)
+2019/04/28 13:38:11                        daytime =  TRUE
+2019/04/28 13:54:08           Assert fail line 264
+2019/04/28 13:54:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:05:47           Assert fail line 264
+2019/04/28 14:05:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:20:50           Assert fail line 264
+2019/04/28 14:20:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:21:24           Assert fail line 264
+2019/04/28 14:21:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:24:06           Assert fail line 264
+2019/04/28 14:24:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:24:25           Assert fail line 264
+2019/04/28 14:24:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:46
+Compile date: Apr 28 2019 time: 14:23:14
+Git hash: 0f1c499cc2d7fb9bc10eb678c9088d889549735c (modified)
+2019/04/28 14:25:48                        daytime =  TRUE
+2019/04/28 14:25:49 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:49 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:49 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:50 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:50 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:51 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:51 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:52 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:52 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:53 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:53 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:54 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:54 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:55 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:55 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:56 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:56 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:57 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:57 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:58 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:58 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:59 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:25:59 Array index=264 out of bounds on line 29249
+2019/04/28 14:25:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:00 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:00 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:01 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:01 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:02 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:02 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:03 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:03 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:04 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:04 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:05 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:05 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:06 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:06 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:07 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:07 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:08 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:08 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:09 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:09 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:10 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:10 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:24 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:24 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:24 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:24 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:25 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:25 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:26 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:26 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:27 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:27 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:28 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:28 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:29 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:29 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:30 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:30 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:31 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:31 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:32 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:32 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:33 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:33 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:34 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:34 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:35 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:35 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:36 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:36 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:37 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:37 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:38 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:38 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:39 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:39 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:40 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:40 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:41 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:41 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:42 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:42 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:43 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:43 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:44 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:44 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:45 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:45 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:46 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:46 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:47 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:47 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:48 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:48 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:49 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:49 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:50 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:50 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:51 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:51 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:52 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:52 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:53 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:53 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:54 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:54 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:55 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:55 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:56 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:56 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:57 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:57 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:58 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:58 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:59 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:26:59 Array index=264 out of bounds on line 29249
+2019/04/28 14:26:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:00 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:00 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:01 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:01 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:02 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:02 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:03 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:03 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:04 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:04 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:05 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:05 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:06 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:06 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:07 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:07 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:08 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:08 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:09 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:09 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:10 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:10 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:11 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:11 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:12 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:12 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:13 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:13 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:14 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:14 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:15 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:15 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:16 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:16 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:17 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:17 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:18 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:18 Array index=264 out of bounds on line 29249
+2019/04/28 14:27:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:28
+Compile date: Apr 28 2019 time: 14:24:56
+Git hash: 0f1c499cc2d7fb9bc10eb678c9088d889549735c (modified)
+2019/04/28 14:27:29                        daytime =  TRUE
+2019/04/28 14:27:30 Array index=255 out of bounds on line 264
+2019/04/28 14:27:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:30 Array index=255 out of bounds on line 264
+2019/04/28 14:27:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:30 Array index=255 out of bounds on line 264
+2019/04/28 14:27:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:31 Array index=255 out of bounds on line 264
+2019/04/28 14:27:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:31 Array index=255 out of bounds on line 264
+2019/04/28 14:27:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:32 Array index=255 out of bounds on line 264
+2019/04/28 14:27:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:32 Array index=255 out of bounds on line 264
+2019/04/28 14:27:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:33 Array index=255 out of bounds on line 264
+2019/04/28 14:27:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:33 Array index=255 out of bounds on line 264
+2019/04/28 14:27:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:34 Array index=255 out of bounds on line 264
+2019/04/28 14:27:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:34 Array index=255 out of bounds on line 264
+2019/04/28 14:27:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:35 Array index=255 out of bounds on line 264
+2019/04/28 14:27:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:35 Array index=255 out of bounds on line 264
+2019/04/28 14:27:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:36 Array index=255 out of bounds on line 264
+2019/04/28 14:27:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:36 Array index=255 out of bounds on line 264
+2019/04/28 14:27:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:37 Array index=255 out of bounds on line 264
+2019/04/28 14:27:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:27:37 Array index=255 out of bounds on line 264
+2019/04/28 14:27:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:11 Array index=255 out of bounds on line 264
+2019/04/28 14:28:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:11 Array index=255 out of bounds on line 264
+2019/04/28 14:28:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:11 Array index=255 out of bounds on line 264
+2019/04/28 14:28:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:11 Array index=255 out of bounds on line 264
+2019/04/28 14:28:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:12 Array index=255 out of bounds on line 264
+2019/04/28 14:28:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:12 Array index=255 out of bounds on line 264
+2019/04/28 14:28:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:13 Array index=255 out of bounds on line 264
+2019/04/28 14:28:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:13 Array index=255 out of bounds on line 264
+2019/04/28 14:28:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:14 Array index=255 out of bounds on line 264
+2019/04/28 14:28:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:14 Array index=255 out of bounds on line 264
+2019/04/28 14:28:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:15 Array index=255 out of bounds on line 264
+2019/04/28 14:28:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:15 Array index=255 out of bounds on line 264
+2019/04/28 14:28:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:16 Array index=255 out of bounds on line 264
+2019/04/28 14:28:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:16 Array index=255 out of bounds on line 264
+2019/04/28 14:28:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:17 Array index=255 out of bounds on line 264
+2019/04/28 14:28:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:17 Array index=255 out of bounds on line 264
+2019/04/28 14:28:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:18 Array index=255 out of bounds on line 264
+2019/04/28 14:28:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:18 Array index=255 out of bounds on line 264
+2019/04/28 14:28:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:19 Array index=255 out of bounds on line 264
+2019/04/28 14:28:19 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:19 Array index=255 out of bounds on line 264
+2019/04/28 14:28:19 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:20 Array index=255 out of bounds on line 264
+2019/04/28 14:28:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:20 Array index=255 out of bounds on line 264
+2019/04/28 14:28:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:21 Array index=255 out of bounds on line 264
+2019/04/28 14:28:21 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:21 Array index=255 out of bounds on line 264
+2019/04/28 14:28:21 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:22 Array index=255 out of bounds on line 264
+2019/04/28 14:28:22 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:22 Array index=255 out of bounds on line 264
+2019/04/28 14:28:22 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:23 Array index=255 out of bounds on line 264
+2019/04/28 14:28:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:23 Array index=255 out of bounds on line 264
+2019/04/28 14:28:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:24 Array index=255 out of bounds on line 264
+2019/04/28 14:28:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:24 Array index=255 out of bounds on line 264
+2019/04/28 14:28:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:25 Array index=255 out of bounds on line 264
+2019/04/28 14:28:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:25 Array index=255 out of bounds on line 264
+2019/04/28 14:28:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:26 Array index=255 out of bounds on line 264
+2019/04/28 14:28:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:26 Array index=255 out of bounds on line 264
+2019/04/28 14:28:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:27 Array index=255 out of bounds on line 264
+2019/04/28 14:28:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:27 Array index=255 out of bounds on line 264
+2019/04/28 14:28:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:28 Array index=255 out of bounds on line 264
+2019/04/28 14:28:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:28 Array index=255 out of bounds on line 264
+2019/04/28 14:28:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:29 Array index=255 out of bounds on line 264
+2019/04/28 14:28:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:29 Array index=255 out of bounds on line 264
+2019/04/28 14:28:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:30 Array index=255 out of bounds on line 264
+2019/04/28 14:28:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:30 Array index=255 out of bounds on line 264
+2019/04/28 14:28:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:31 Array index=255 out of bounds on line 264
+2019/04/28 14:28:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:31 Array index=255 out of bounds on line 264
+2019/04/28 14:28:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:32 Array index=255 out of bounds on line 264
+2019/04/28 14:28:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:32 Array index=255 out of bounds on line 264
+2019/04/28 14:28:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:33 Array index=255 out of bounds on line 264
+2019/04/28 14:28:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:33 Array index=255 out of bounds on line 264
+2019/04/28 14:28:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:34 Array index=255 out of bounds on line 264
+2019/04/28 14:28:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:34 Array index=255 out of bounds on line 264
+2019/04/28 14:28:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:35 Array index=255 out of bounds on line 264
+2019/04/28 14:28:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:35 Array index=255 out of bounds on line 264
+2019/04/28 14:28:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:36 Array index=255 out of bounds on line 264
+2019/04/28 14:28:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:36 Array index=255 out of bounds on line 264
+2019/04/28 14:28:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:37 Array index=255 out of bounds on line 264
+2019/04/28 14:28:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:37 Array index=255 out of bounds on line 264
+2019/04/28 14:28:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:38 Array index=255 out of bounds on line 264
+2019/04/28 14:28:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:38 Array index=255 out of bounds on line 264
+2019/04/28 14:28:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:39 Array index=255 out of bounds on line 264
+2019/04/28 14:28:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:39 Array index=255 out of bounds on line 264
+2019/04/28 14:28:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:40 Array index=255 out of bounds on line 264
+2019/04/28 14:28:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:40 Array index=255 out of bounds on line 264
+2019/04/28 14:28:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:41 Array index=255 out of bounds on line 264
+2019/04/28 14:28:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:41 Array index=255 out of bounds on line 264
+2019/04/28 14:28:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:42 Array index=255 out of bounds on line 264
+2019/04/28 14:28:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:42 Array index=255 out of bounds on line 264
+2019/04/28 14:28:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:43 Array index=255 out of bounds on line 264
+2019/04/28 14:28:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:43 Array index=255 out of bounds on line 264
+2019/04/28 14:28:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:44 Array index=255 out of bounds on line 264
+2019/04/28 14:28:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:44 Array index=255 out of bounds on line 264
+2019/04/28 14:28:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:45 Array index=255 out of bounds on line 264
+2019/04/28 14:28:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:45 Array index=255 out of bounds on line 264
+2019/04/28 14:28:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:46 Array index=255 out of bounds on line 264
+2019/04/28 14:28:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:46 Array index=255 out of bounds on line 264
+2019/04/28 14:28:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:47 Array index=255 out of bounds on line 264
+2019/04/28 14:28:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:47 Array index=255 out of bounds on line 264
+2019/04/28 14:28:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:48 Array index=255 out of bounds on line 264
+2019/04/28 14:28:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:48 Array index=255 out of bounds on line 264
+2019/04/28 14:28:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:49 Array index=255 out of bounds on line 264
+2019/04/28 14:28:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:49 Array index=255 out of bounds on line 264
+2019/04/28 14:28:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:50 Array index=255 out of bounds on line 264
+2019/04/28 14:28:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:50 Array index=255 out of bounds on line 264
+2019/04/28 14:28:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:51 Array index=255 out of bounds on line 264
+2019/04/28 14:28:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:51 Array index=255 out of bounds on line 264
+2019/04/28 14:28:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:52 Array index=255 out of bounds on line 264
+2019/04/28 14:28:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:52 Array index=255 out of bounds on line 264
+2019/04/28 14:28:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:53 Array index=255 out of bounds on line 264
+2019/04/28 14:28:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:53 Array index=255 out of bounds on line 264
+2019/04/28 14:28:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:54 Array index=255 out of bounds on line 264
+2019/04/28 14:28:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:54 Array index=255 out of bounds on line 264
+2019/04/28 14:28:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:55 Array index=255 out of bounds on line 264
+2019/04/28 14:28:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:55 Array index=255 out of bounds on line 264
+2019/04/28 14:28:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:56 Array index=255 out of bounds on line 264
+2019/04/28 14:28:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:56 Array index=255 out of bounds on line 264
+2019/04/28 14:28:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:57 Array index=255 out of bounds on line 264
+2019/04/28 14:28:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:57 Array index=255 out of bounds on line 264
+2019/04/28 14:28:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:58 Array index=255 out of bounds on line 264
+2019/04/28 14:28:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:58 Array index=255 out of bounds on line 264
+2019/04/28 14:28:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:59 Array index=255 out of bounds on line 264
+2019/04/28 14:28:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:28:59 Array index=255 out of bounds on line 264
+2019/04/28 14:28:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:00 Array index=255 out of bounds on line 264
+2019/04/28 14:29:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:00 Array index=255 out of bounds on line 264
+2019/04/28 14:29:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:01 Array index=255 out of bounds on line 264
+2019/04/28 14:29:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:01 Array index=255 out of bounds on line 264
+2019/04/28 14:29:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:02 Array index=255 out of bounds on line 264
+2019/04/28 14:29:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:02 Array index=255 out of bounds on line 264
+2019/04/28 14:29:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:03 Array index=255 out of bounds on line 264
+2019/04/28 14:29:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:03 Array index=255 out of bounds on line 264
+2019/04/28 14:29:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:04 Array index=255 out of bounds on line 264
+2019/04/28 14:29:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:04 Array index=255 out of bounds on line 264
+2019/04/28 14:29:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:05 Array index=255 out of bounds on line 264
+2019/04/28 14:29:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:05 Array index=255 out of bounds on line 264
+2019/04/28 14:29:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:06 Array index=255 out of bounds on line 264
+2019/04/28 14:29:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:06 Array index=255 out of bounds on line 264
+2019/04/28 14:29:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:07 Array index=255 out of bounds on line 264
+2019/04/28 14:29:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:07 Array index=255 out of bounds on line 264
+2019/04/28 14:29:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:08 Array index=255 out of bounds on line 264
+2019/04/28 14:29:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:08 Array index=255 out of bounds on line 264
+2019/04/28 14:29:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:09 Array index=255 out of bounds on line 264
+2019/04/28 14:29:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:09 Array index=255 out of bounds on line 264
+2019/04/28 14:29:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:10 Array index=255 out of bounds on line 264
+2019/04/28 14:29:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:10 Array index=255 out of bounds on line 264
+2019/04/28 14:29:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:11 Array index=255 out of bounds on line 264
+2019/04/28 14:29:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:11 Array index=255 out of bounds on line 264
+2019/04/28 14:29:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:12 Array index=255 out of bounds on line 264
+2019/04/28 14:29:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:12 Array index=255 out of bounds on line 264
+2019/04/28 14:29:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:13 Array index=255 out of bounds on line 264
+2019/04/28 14:29:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:13 Array index=255 out of bounds on line 264
+2019/04/28 14:29:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:14 Array index=255 out of bounds on line 264
+2019/04/28 14:29:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:14 Array index=255 out of bounds on line 264
+2019/04/28 14:29:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:15 Array index=255 out of bounds on line 264
+2019/04/28 14:29:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:15 Array index=255 out of bounds on line 264
+2019/04/28 14:29:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:16 Array index=255 out of bounds on line 264
+2019/04/28 14:29:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:16 Array index=255 out of bounds on line 264
+2019/04/28 14:29:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:17 Array index=255 out of bounds on line 264
+2019/04/28 14:29:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:17 Array index=255 out of bounds on line 264
+2019/04/28 14:29:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:18 Array index=255 out of bounds on line 264
+2019/04/28 14:29:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:18 Array index=255 out of bounds on line 264
+2019/04/28 14:29:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:19 Array index=255 out of bounds on line 264
+2019/04/28 14:29:19 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:19 Array index=255 out of bounds on line 264
+2019/04/28 14:29:19 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:20 Array index=255 out of bounds on line 264
+2019/04/28 14:29:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:20 Array index=255 out of bounds on line 264
+2019/04/28 14:29:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:21 Array index=255 out of bounds on line 264
+2019/04/28 14:29:21 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:21 Array index=255 out of bounds on line 264
+2019/04/28 14:29:21 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:22 Array index=255 out of bounds on line 264
+2019/04/28 14:29:22 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:22 Array index=255 out of bounds on line 264
+2019/04/28 14:29:22 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:23 Array index=255 out of bounds on line 264
+2019/04/28 14:29:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:23 Array index=255 out of bounds on line 264
+2019/04/28 14:29:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:24 Array index=255 out of bounds on line 264
+2019/04/28 14:29:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:24 Array index=255 out of bounds on line 264
+2019/04/28 14:29:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:25 Array index=255 out of bounds on line 264
+2019/04/28 14:29:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:25 Array index=255 out of bounds on line 264
+2019/04/28 14:29:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:26 Array index=255 out of bounds on line 264
+2019/04/28 14:29:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:26 Array index=255 out of bounds on line 264
+2019/04/28 14:29:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:27 Array index=255 out of bounds on line 264
+2019/04/28 14:29:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:27 Array index=255 out of bounds on line 264
+2019/04/28 14:29:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:28 Array index=255 out of bounds on line 264
+2019/04/28 14:29:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:28 Array index=255 out of bounds on line 264
+2019/04/28 14:29:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:29 Array index=255 out of bounds on line 264
+2019/04/28 14:29:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:29 Array index=255 out of bounds on line 264
+2019/04/28 14:29:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:30 Array index=255 out of bounds on line 264
+2019/04/28 14:29:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:30 Array index=255 out of bounds on line 264
+2019/04/28 14:29:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:31 Array index=255 out of bounds on line 264
+2019/04/28 14:29:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:31 Array index=255 out of bounds on line 264
+2019/04/28 14:29:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:32 Array index=255 out of bounds on line 264
+2019/04/28 14:29:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:32 Array index=255 out of bounds on line 264
+2019/04/28 14:29:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:33 Array index=255 out of bounds on line 264
+2019/04/28 14:29:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:33 Array index=255 out of bounds on line 264
+2019/04/28 14:29:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:34 Array index=255 out of bounds on line 264
+2019/04/28 14:29:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:34 Array index=255 out of bounds on line 264
+2019/04/28 14:29:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:35 Array index=255 out of bounds on line 264
+2019/04/28 14:29:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:35 Array index=255 out of bounds on line 264
+2019/04/28 14:29:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:36 Array index=255 out of bounds on line 264
+2019/04/28 14:29:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:36 Array index=255 out of bounds on line 264
+2019/04/28 14:29:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:37 Array index=255 out of bounds on line 264
+2019/04/28 14:29:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:37 Array index=255 out of bounds on line 264
+2019/04/28 14:29:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:38 Array index=255 out of bounds on line 264
+2019/04/28 14:29:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:38 Array index=255 out of bounds on line 264
+2019/04/28 14:29:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:39 Array index=255 out of bounds on line 264
+2019/04/28 14:29:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:39 Array index=255 out of bounds on line 264
+2019/04/28 14:29:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:40 Array index=255 out of bounds on line 264
+2019/04/28 14:29:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:40 Array index=255 out of bounds on line 264
+2019/04/28 14:29:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:41 Array index=255 out of bounds on line 264
+2019/04/28 14:29:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:41 Array index=255 out of bounds on line 264
+2019/04/28 14:29:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:42 Array index=255 out of bounds on line 264
+2019/04/28 14:29:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:42 Array index=255 out of bounds on line 264
+2019/04/28 14:29:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:43 Array index=255 out of bounds on line 264
+2019/04/28 14:29:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:43 Array index=255 out of bounds on line 264
+2019/04/28 14:29:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:44 Array index=255 out of bounds on line 264
+2019/04/28 14:29:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:44 Array index=255 out of bounds on line 264
+2019/04/28 14:29:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:45 Array index=255 out of bounds on line 264
+2019/04/28 14:29:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:45 Array index=255 out of bounds on line 264
+2019/04/28 14:29:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:46 Array index=255 out of bounds on line 264
+2019/04/28 14:29:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:46 Array index=255 out of bounds on line 264
+2019/04/28 14:29:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:47 Array index=255 out of bounds on line 264
+2019/04/28 14:29:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:47 Array index=255 out of bounds on line 264
+2019/04/28 14:29:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:48 Array index=255 out of bounds on line 264
+2019/04/28 14:29:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:48 Array index=255 out of bounds on line 264
+2019/04/28 14:29:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:49 Array index=255 out of bounds on line 264
+2019/04/28 14:29:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:49 Array index=255 out of bounds on line 264
+2019/04/28 14:29:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:50 Array index=255 out of bounds on line 264
+2019/04/28 14:29:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:50 Array index=255 out of bounds on line 264
+2019/04/28 14:29:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:51 Array index=255 out of bounds on line 264
+2019/04/28 14:29:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:51 Array index=255 out of bounds on line 264
+2019/04/28 14:29:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:52 Array index=255 out of bounds on line 264
+2019/04/28 14:29:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:52 Array index=255 out of bounds on line 264
+2019/04/28 14:29:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:53 Array index=255 out of bounds on line 264
+2019/04/28 14:29:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:53 Array index=255 out of bounds on line 264
+2019/04/28 14:29:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:54 Array index=255 out of bounds on line 264
+2019/04/28 14:29:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:54 Array index=255 out of bounds on line 264
+2019/04/28 14:29:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:55 Array index=255 out of bounds on line 264
+2019/04/28 14:29:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:55 Array index=255 out of bounds on line 264
+2019/04/28 14:29:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:56 Array index=255 out of bounds on line 264
+2019/04/28 14:29:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:56 Array index=255 out of bounds on line 264
+2019/04/28 14:29:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:57 Array index=255 out of bounds on line 264
+2019/04/28 14:29:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:57 Array index=255 out of bounds on line 264
+2019/04/28 14:29:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:58 Array index=255 out of bounds on line 264
+2019/04/28 14:29:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:58 Array index=255 out of bounds on line 264
+2019/04/28 14:29:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:59 Array index=255 out of bounds on line 264
+2019/04/28 14:29:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:29:59 Array index=255 out of bounds on line 264
+2019/04/28 14:29:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:00 Array index=255 out of bounds on line 264
+2019/04/28 14:30:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:00 Array index=255 out of bounds on line 264
+2019/04/28 14:30:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:01 Array index=255 out of bounds on line 264
+2019/04/28 14:30:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:01 Array index=255 out of bounds on line 264
+2019/04/28 14:30:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:02 Array index=255 out of bounds on line 264
+2019/04/28 14:30:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:02 Array index=255 out of bounds on line 264
+2019/04/28 14:30:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:03 Array index=255 out of bounds on line 264
+2019/04/28 14:30:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:03 Array index=255 out of bounds on line 264
+2019/04/28 14:30:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:04 Array index=255 out of bounds on line 264
+2019/04/28 14:30:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:04 Array index=255 out of bounds on line 264
+2019/04/28 14:30:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:05 Array index=255 out of bounds on line 264
+2019/04/28 14:30:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:05 Array index=255 out of bounds on line 264
+2019/04/28 14:30:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:06 Array index=255 out of bounds on line 264
+2019/04/28 14:30:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:06 Array index=255 out of bounds on line 264
+2019/04/28 14:30:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:07 Array index=255 out of bounds on line 264
+2019/04/28 14:30:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:07 Array index=255 out of bounds on line 264
+2019/04/28 14:30:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:08 Array index=255 out of bounds on line 264
+2019/04/28 14:30:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:08 Array index=255 out of bounds on line 264
+2019/04/28 14:30:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:09 Array index=255 out of bounds on line 264
+2019/04/28 14:30:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:09 Array index=255 out of bounds on line 264
+2019/04/28 14:30:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:10 Array index=255 out of bounds on line 264
+2019/04/28 14:30:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:10 Array index=255 out of bounds on line 264
+2019/04/28 14:30:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:11 Array index=255 out of bounds on line 264
+2019/04/28 14:30:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:11 Array index=255 out of bounds on line 264
+2019/04/28 14:30:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:12 Array index=255 out of bounds on line 264
+2019/04/28 14:30:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:12 Array index=255 out of bounds on line 264
+2019/04/28 14:30:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:13 Array index=255 out of bounds on line 264
+2019/04/28 14:30:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:13 Array index=255 out of bounds on line 264
+2019/04/28 14:30:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:14 Array index=255 out of bounds on line 264
+2019/04/28 14:30:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:14 Array index=255 out of bounds on line 264
+2019/04/28 14:30:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:15 Array index=255 out of bounds on line 264
+2019/04/28 14:30:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:15 Array index=255 out of bounds on line 264
+2019/04/28 14:30:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:16 Array index=255 out of bounds on line 264
+2019/04/28 14:30:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:16 Array index=255 out of bounds on line 264
+2019/04/28 14:30:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:17 Array index=255 out of bounds on line 264
+2019/04/28 14:30:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:17 Array index=255 out of bounds on line 264
+2019/04/28 14:30:17 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:18 Array index=255 out of bounds on line 264
+2019/04/28 14:30:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:18 Array index=255 out of bounds on line 264
+2019/04/28 14:30:18 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:19 Array index=255 out of bounds on line 264
+2019/04/28 14:30:19 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:19 Array index=255 out of bounds on line 264
+2019/04/28 14:30:19 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:20 Array index=255 out of bounds on line 264
+2019/04/28 14:30:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:20 Array index=255 out of bounds on line 264
+2019/04/28 14:30:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:21 Array index=255 out of bounds on line 264
+2019/04/28 14:30:21 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:21 Array index=255 out of bounds on line 264
+2019/04/28 14:30:21 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:22 Array index=255 out of bounds on line 264
+2019/04/28 14:30:22 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:22 Array index=255 out of bounds on line 264
+2019/04/28 14:30:22 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:23 Array index=255 out of bounds on line 264
+2019/04/28 14:30:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:23 Array index=255 out of bounds on line 264
+2019/04/28 14:30:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:24 Array index=255 out of bounds on line 264
+2019/04/28 14:30:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:24 Array index=255 out of bounds on line 264
+2019/04/28 14:30:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:25 Array index=255 out of bounds on line 264
+2019/04/28 14:30:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:25 Array index=255 out of bounds on line 264
+2019/04/28 14:30:25 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:26 Array index=255 out of bounds on line 264
+2019/04/28 14:30:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:26 Array index=255 out of bounds on line 264
+2019/04/28 14:30:26 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:27 Array index=255 out of bounds on line 264
+2019/04/28 14:30:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:27 Array index=255 out of bounds on line 264
+2019/04/28 14:30:27 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:28 Array index=255 out of bounds on line 264
+2019/04/28 14:30:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:28 Array index=255 out of bounds on line 264
+2019/04/28 14:30:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:29 Array index=255 out of bounds on line 264
+2019/04/28 14:30:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:29 Array index=255 out of bounds on line 264
+2019/04/28 14:30:29 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:30 Array index=255 out of bounds on line 264
+2019/04/28 14:30:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:30 Array index=255 out of bounds on line 264
+2019/04/28 14:30:30 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:31 Array index=255 out of bounds on line 264
+2019/04/28 14:30:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:31 Array index=255 out of bounds on line 264
+2019/04/28 14:30:31 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:32 Array index=255 out of bounds on line 264
+2019/04/28 14:30:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:32 Array index=255 out of bounds on line 264
+2019/04/28 14:30:32 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:33 Array index=255 out of bounds on line 264
+2019/04/28 14:30:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:33 Array index=255 out of bounds on line 264
+2019/04/28 14:30:33 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:34 Array index=255 out of bounds on line 264
+2019/04/28 14:30:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:34 Array index=255 out of bounds on line 264
+2019/04/28 14:30:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:35 Array index=255 out of bounds on line 264
+2019/04/28 14:30:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:35 Array index=255 out of bounds on line 264
+2019/04/28 14:30:35 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:36 Array index=255 out of bounds on line 264
+2019/04/28 14:30:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:36 Array index=255 out of bounds on line 264
+2019/04/28 14:30:36 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:37 Array index=255 out of bounds on line 264
+2019/04/28 14:30:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:37 Array index=255 out of bounds on line 264
+2019/04/28 14:30:37 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:38 Array index=255 out of bounds on line 264
+2019/04/28 14:30:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:38 Array index=255 out of bounds on line 264
+2019/04/28 14:30:38 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:39 Array index=255 out of bounds on line 264
+2019/04/28 14:30:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:39 Array index=255 out of bounds on line 264
+2019/04/28 14:30:39 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:40 Array index=255 out of bounds on line 264
+2019/04/28 14:30:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:40 Array index=255 out of bounds on line 264
+2019/04/28 14:30:40 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:41 Array index=255 out of bounds on line 264
+2019/04/28 14:30:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:41 Array index=255 out of bounds on line 264
+2019/04/28 14:30:41 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:42 Array index=255 out of bounds on line 264
+2019/04/28 14:30:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:42 Array index=255 out of bounds on line 264
+2019/04/28 14:30:42 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:43 Array index=255 out of bounds on line 264
+2019/04/28 14:30:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:43 Array index=255 out of bounds on line 264
+2019/04/28 14:30:43 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:44 Array index=255 out of bounds on line 264
+2019/04/28 14:30:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:44 Array index=255 out of bounds on line 264
+2019/04/28 14:30:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:45 Array index=255 out of bounds on line 264
+2019/04/28 14:30:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:45 Array index=255 out of bounds on line 264
+2019/04/28 14:30:45 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:46 Array index=255 out of bounds on line 264
+2019/04/28 14:30:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:46 Array index=255 out of bounds on line 264
+2019/04/28 14:30:46 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:47 Array index=255 out of bounds on line 264
+2019/04/28 14:30:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:47 Array index=255 out of bounds on line 264
+2019/04/28 14:30:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:48 Array index=255 out of bounds on line 264
+2019/04/28 14:30:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:48 Array index=255 out of bounds on line 264
+2019/04/28 14:30:48 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:49 Array index=255 out of bounds on line 264
+2019/04/28 14:30:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:49 Array index=255 out of bounds on line 264
+2019/04/28 14:30:49 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:50 Array index=255 out of bounds on line 264
+2019/04/28 14:30:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:50 Array index=255 out of bounds on line 264
+2019/04/28 14:30:50 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:51 Array index=255 out of bounds on line 264
+2019/04/28 14:30:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:51 Array index=255 out of bounds on line 264
+2019/04/28 14:30:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:52 Array index=255 out of bounds on line 264
+2019/04/28 14:30:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:52 Array index=255 out of bounds on line 264
+2019/04/28 14:30:52 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:53 Array index=255 out of bounds on line 264
+2019/04/28 14:30:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:53 Array index=255 out of bounds on line 264
+2019/04/28 14:30:53 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:54 Array index=255 out of bounds on line 264
+2019/04/28 14:30:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:54 Array index=255 out of bounds on line 264
+2019/04/28 14:30:54 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:55 Array index=255 out of bounds on line 264
+2019/04/28 14:30:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:55 Array index=255 out of bounds on line 264
+2019/04/28 14:30:55 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:56 Array index=255 out of bounds on line 264
+2019/04/28 14:30:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:56 Array index=255 out of bounds on line 264
+2019/04/28 14:30:56 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:57 Array index=255 out of bounds on line 264
+2019/04/28 14:30:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:57 Array index=255 out of bounds on line 264
+2019/04/28 14:30:57 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:58 Array index=255 out of bounds on line 264
+2019/04/28 14:30:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:58 Array index=255 out of bounds on line 264
+2019/04/28 14:30:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:59 Array index=255 out of bounds on line 264
+2019/04/28 14:30:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:30:59 Array index=255 out of bounds on line 264
+2019/04/28 14:30:59 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:00 Array index=255 out of bounds on line 264
+2019/04/28 14:31:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:00 Array index=255 out of bounds on line 264
+2019/04/28 14:31:00 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:01 Array index=255 out of bounds on line 264
+2019/04/28 14:31:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:01 Array index=255 out of bounds on line 264
+2019/04/28 14:31:01 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:02 Array index=255 out of bounds on line 264
+2019/04/28 14:31:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:02 Array index=255 out of bounds on line 264
+2019/04/28 14:31:02 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:03 Array index=255 out of bounds on line 264
+2019/04/28 14:31:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:03 Array index=255 out of bounds on line 264
+2019/04/28 14:31:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:04 Array index=255 out of bounds on line 264
+2019/04/28 14:31:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:04 Array index=255 out of bounds on line 264
+2019/04/28 14:31:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:05 Array index=255 out of bounds on line 264
+2019/04/28 14:31:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:05 Array index=255 out of bounds on line 264
+2019/04/28 14:31:05 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:06 Array index=255 out of bounds on line 264
+2019/04/28 14:31:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:06 Array index=255 out of bounds on line 264
+2019/04/28 14:31:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:07 Array index=255 out of bounds on line 264
+2019/04/28 14:31:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:07 Array index=255 out of bounds on line 264
+2019/04/28 14:31:07 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:08 Array index=255 out of bounds on line 264
+2019/04/28 14:31:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:08 Array index=255 out of bounds on line 264
+2019/04/28 14:31:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:09 Array index=255 out of bounds on line 264
+2019/04/28 14:31:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:09 Array index=255 out of bounds on line 264
+2019/04/28 14:31:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:10 Array index=255 out of bounds on line 264
+2019/04/28 14:31:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:10 Array index=255 out of bounds on line 264
+2019/04/28 14:31:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:11 Array index=255 out of bounds on line 264
+2019/04/28 14:31:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:11 Array index=255 out of bounds on line 264
+2019/04/28 14:31:11 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:12 Array index=255 out of bounds on line 264
+2019/04/28 14:31:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:12 Array index=255 out of bounds on line 264
+2019/04/28 14:31:12 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:13 Array index=255 out of bounds on line 264
+2019/04/28 14:31:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:13 Array index=255 out of bounds on line 264
+2019/04/28 14:31:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:14 Array index=255 out of bounds on line 264
+2019/04/28 14:31:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:14 Array index=255 out of bounds on line 264
+2019/04/28 14:31:14 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:15 Array index=255 out of bounds on line 264
+2019/04/28 14:31:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:15 Array index=255 out of bounds on line 264
+2019/04/28 14:31:15 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:25
+Compile date: Apr 28 2019 time: 14:28:53
+Git hash: 0f1c499cc2d7fb9bc10eb678c9088d889549735c (modified)
+2019/04/28 14:31:26                        daytime =  TRUE
+2019/04/28 14:31:28           Assert fail line 212
+2019/04/28 14:31:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:31:28           Assert fail line 212
+2019/04/28 14:31:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:33:09           Assert fail line 212
+2019/04/28 14:33:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:37:06
+Compile date: Apr 28 2019 time: 14:34:34
+Git hash: 0f1c499cc2d7fb9bc10eb678c9088d889549735c (modified)
+2019/04/28 14:37:07                        daytime =  TRUE
+2019/04/28 14:37:08           Assert fail line 220
+2019/04/28 14:37:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/04/28 14:44:00
+Compile date: Apr 28 2019 time: 14:41:28
+Git hash: e0e9ee34bdedcb38e329cd19e25a0a7f41361785
+2019/04/28 14:44:01                        daytime =  TRUE

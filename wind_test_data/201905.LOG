@@ -1,0 +1,256 @@
+2019/05/01 04:54:28           Assert fail line 220
+2019/05/01 04:54:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/01 05:00:00       battery measurement time = FALSE
+2019/05/01 05:00:00                 Computed slope = -0.00414
+2019/05/01 05:00:00                      Intercept = 25762.94100
+2019/05/01 05:00:00                Projected value = 25047.85500
+2019/05/01 05:00:00                 Run during day =  TRUE
+2019/05/01 05:54:23           Assert fail line 220
+2019/05/01 05:54:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/01 06:00:00                        daytime =  TRUE
+2019/05/01 08:26:10           Assert fail line 220
+2019/05/01 08:26:10 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/01 09:08:06           Assert fail line 220
+2019/05/01 09:08:06 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/01 09:39:03           Assert fail line 220
+2019/05/01 09:39:03 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/01 10:04:04 Overriding flag 5, new value is 0
+2019/05/01 10:04:04                        load ON = FALSE
+2019/05/01 18:00:00                        daytime = FALSE
+2019/05/01 18:00:00                        load ON =  TRUE
+2019/05/01 18:07:20           Assert fail line 220
+2019/05/01 18:07:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/01 20:00:00       battery measurement time =  TRUE
+2019/05/01 20:33:08           Assert fail line 220
+2019/05/01 20:33:08 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 00:31:46           Assert fail line 220
+2019/05/02 00:31:47 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 01:01:44           Assert fail line 220
+2019/05/02 01:01:44 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 05:00:00       battery measurement time = FALSE
+2019/05/02 05:00:00                 Computed slope = -0.00367
+2019/05/02 05:00:00                      Intercept = 25547.12300
+2019/05/02 05:00:00                Projected value = 24913.46900
+2019/05/02 05:00:00                 Run during day =  TRUE
+2019/05/02 06:00:00                        daytime =  TRUE
+2019/05/02 06:23:16           Assert fail line 220
+2019/05/02 06:23:16 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 07:10:13           Assert fail line 220
+2019/05/02 07:10:13 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 11:26:51           Assert fail line 220
+2019/05/02 11:26:51 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 13:20:01 Overriding flag 5, new value is 0
+2019/05/02 13:20:01                        load ON = FALSE
+2019/05/02 14:47:34           Assert fail line 220
+2019/05/02 14:47:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 16:30:24           Assert fail line 220
+2019/05/02 16:30:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 16:45:23           Assert fail line 220
+2019/05/02 16:45:23 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 17:24:20           Assert fail line 220
+2019/05/02 17:24:20 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 18:00:00                        daytime = FALSE
+2019/05/02 18:00:00                        load ON =  TRUE
+2019/05/02 19:27:09           Assert fail line 220
+2019/05/02 19:27:09 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/02 20:00:00       battery measurement time =  TRUE
+2019/05/03 02:30:34           Assert fail line 220
+2019/05/03 02:30:34 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/03 03:29:28           Assert fail line 220
+2019/05/03 03:29:28 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/03 04:27:24           Assert fail line 220
+2019/05/03 04:27:24 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/03 05:00:00       battery measurement time = FALSE
+2019/05/03 05:00:00                 Computed slope = -0.00284
+2019/05/03 05:00:00                      Intercept = 25331.41600
+2019/05/03 05:00:00                Projected value = 24841.03300
+2019/05/03 05:00:00                 Run during day =  TRUE
+2019/05/03 06:00:00                        daytime =  TRUE
+2019/05/03 08:18:04           Assert fail line 220
+2019/05/03 08:18:04 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/03 09:15:58           Assert fail line 220
+2019/05/03 09:15:58 C:\Users\eamon\Desktop\albatros-power\powertrack\victron.ino
+2019/05/03 10:48:00 Overriding flag 5, new value is 0
+2019/05/03 10:48:01                        load ON = FALSE
+2019/05/03 11:18:31                       set 6 -1
+2019/05/03 11:23:06                       set 6 49
+2019/05/03 11:23:12                        set 6 0
+2019/05/03 11:23:19                       set 6 -1
+2019/05/03 11:27:39
+Compile date: Apr 30 2019 time: 09:46:31
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749
+2019/05/03 11:27:41                        daytime =  TRUE
+2019/05/03 11:30:39                data age cutoff =  TRUE 180530 180000
+2019/05/03 12:16:20
+Compile date: May  3 2019 time: 12:13:09
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:16:21                        daytime =  TRUE
+2019/05/03 12:19:20                data age cutoff =  TRUE 180002 180000
+2019/05/03 12:35:57
+Compile date: May  3 2019 time: 12:32:45
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:35:59                        daytime =  TRUE
+2019/05/03 12:38:00
+Compile date: May  3 2019 time: 12:34:49
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:38:02                        daytime =  TRUE
+2019/05/03 12:41:00                data age cutoff =  TRUE 180554 180000
+2019/05/03 12:42:48
+Compile date: May  3 2019 time: 12:39:36
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:42:49                        daytime =  TRUE
+2019/05/03 12:45:47                data age cutoff =  TRUE 180130 180000
+2019/05/03 12:46:15
+Compile date: May  3 2019 time: 12:43:03
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:46:16                        daytime =  TRUE
+2019/05/03 12:49:15                data age cutoff =  TRUE 180782 180000
+2019/05/03 12:52:39
+Compile date: May  3 2019 time: 12:49:27
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:52:40                        daytime =  TRUE
+2019/05/03 12:54:11
+Compile date: May  3 2019 time: 12:50:53
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:54:13                        daytime =  TRUE
+2019/05/03 12:56:49
+Compile date: May  3 2019 time: 12:53:37
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:56:50                        daytime =  TRUE
+2019/05/03 12:58:10
+Compile date: May  3 2019 time: 12:54:58
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 12:58:11                        daytime =  TRUE
+2019/05/03 13:01:10                data age cutoff =  TRUE 180981 180000
+2019/05/03 13:05:47
+Compile date: May  3 2019 time: 13:02:36
+Git hash: ef75a06d53df7f4e6ef879f6729a838911c9f749 (modified)
+2019/05/03 13:05:49                        daytime =  TRUE
+2019/05/03 13:07:01                       set 6 -1
+2019/05/03 13:08:48                data age cutoff =  TRUE
+2019/05/03 14:06:49
+Compile date: May  3 2019 time: 14:03:34
+Git hash: 0ac50d9d1d006f6dad653916ce11764db5c330f1 (modified)
+2019/05/03 14:06:50                        daytime =  TRUE
+2019/05/03 14:09:49                data age cutoff =  TRUE
+2019/05/03 15:48:22                    LV cutoff 0 =  TRUE
+2019/05/03 15:48:22                data age cutoff = FALSE
+2019/05/03 15:48:23                LV cutoff 25340 = FALSE
+2019/05/03 15:49:40                LV cutoff 22000 =  TRUE
+2019/05/03 15:52:39                data age cutoff =  TRUE
+2019/05/03 15:54:14                            set
+2019/05/03 16:11:43 Overriding flag 3, new value is 1
+2019/05/03 16:11:43       battery measurement time = FALSE
+2019/05/03 16:11:43                 Computed slope =     NAN
+2019/05/03 16:11:43                      Intercept =     NAN
+2019/05/03 16:11:43                Projected value =     NAN
+2019/05/03 16:11:43                 Run during day = FALSE
+2019/05/03 16:12:13                       set 6 -1
+2019/05/03 16:12:27 Overriding flag 3, new value is 1
+2019/05/03 16:12:28       battery measurement time = FALSE
+2019/05/03 16:12:28                 Computed slope =     NAN
+2019/05/03 16:12:28                      Intercept =     NAN
+2019/05/03 16:12:28 Run during day disabled, reserve hours param < 0
+2019/05/03 16:13:00 Overriding flag 3, new value is 1
+2019/05/03 16:13:00       battery measurement time = FALSE
+2019/05/03 16:13:00                 Computed slope =     NAN
+2019/05/03 16:13:00                      Intercept =     NAN
+2019/05/03 16:13:00 Run during day disabled, reserve hours param < 0
+2019/05/03 16:13:50                          reset
+2019/05/03 16:13:50
+Compile date: May  3 2019 time: 14:03:34
+Git hash: 0ac50d9d1d006f6dad653916ce11764db5c330f1 (modified)
+2019/05/03 16:13:52                        daytime =  TRUE
+2019/05/03 16:14:19
+Compile date: May  3 2019 time: 16:11:04
+Git hash: 5f576f57847ef74f0483912cca67783141db66d0
+2019/05/03 16:14:21                        daytime =  TRUE
+2019/05/03 16:14:27                            set
+2019/05/03 16:14:37                       set 6 -1
+2019/05/03 16:14:43                            com
+2019/05/03 16:15:07 Overriding flag 3, new value is 1
+2019/05/03 16:15:07       battery measurement time = FALSE
+2019/05/03 16:15:07                 Computed slope =     NAN
+2019/05/03 16:15:07                      Intercept =     NAN
+2019/05/03 16:15:07 Run during day disabled, reserve hours param < 0
+2019/05/03 16:17:19                data age cutoff =  TRUE
+2019/05/03 16:24:59
+Compile date: May  3 2019 time: 16:21:44
+Git hash: 5f576f57847ef74f0483912cca67783141db66d0 (modified)
+2019/05/03 16:25:01                        daytime =  TRUE
+2019/05/03 16:25:21 Overriding flag 3, new value is 1
+2019/05/03 16:25:21       battery measurement time = FALSE
+2019/05/03 16:25:21                 Computed slope =     NAN
+2019/05/03 16:25:21                      Intercept =     NAN
+2019/05/03 16:25:21 Run during day disabled, reserve hours param < 0
+2019/05/03 16:28:00                data age cutoff =  TRUE
+2019/05/03 16:49:19
+Compile date: May  3 2019 time: 16:46:04
+Git hash: e03cdc04d2d47d2fdb0592996092c1491c59d1e1
+2019/05/03 16:49:21                        daytime =  TRUE
+2019/05/03 16:52:19                data age cutoff =  TRUE
+2019/05/03 16:53:39
+Compile date: May  3 2019 time: 16:46:04
+Git hash: e03cdc04d2d47d2fdb0592996092c1491c59d1e1
+2019/05/03 16:53:40                        daytime =  TRUE
+2019/05/03 18:00:00                        daytime = FALSE
+2019/05/03 18:00:00                        load ON =  TRUE
+2019/05/03 18:01:35
+Compile date: May  3 2019 time: 16:46:04
+Git hash: e03cdc04d2d47d2fdb0592996092c1491c59d1e1
+2019/05/03 18:01:36                        load ON =  TRUE
+2019/05/03 18:01:57
+Compile date: May  3 2019 time: 17:58:34
+Git hash: e03cdc04d2d47d2fdb0592996092c1491c59d1e1 (modified)
+2019/05/03 18:01:58                        load ON =  TRUE
+2019/05/03 18:02:12
+Compile date: May  3 2019 time: 17:58:34
+Git hash: e03cdc04d2d47d2fdb0592996092c1491c59d1e1 (modified)
+2019/05/03 18:02:14                        load ON =  TRUE
+2019/05/03 18:03:09
+Compile date: May  3 2019 time: 17:58:34
+Git hash: e03cdc04d2d47d2fdb0592996092c1491c59d1e1 (modified)
+2019/05/03 18:03:10                        load ON =  TRUE
+2019/05/03 18:04:07
+Compile date: May  3 2019 time: 18:00:51
+Git hash: 4f43a5be3222582cbc70189466b58e6b8767bd6b
+2019/05/03 18:04:08                        load ON =  TRUE
+2019/05/03 18:04:34
+Compile date: May  3 2019 time: 18:00:51
+Git hash: 4f43a5be3222582cbc70189466b58e6b8767bd6b
+2019/05/03 18:04:35                        load ON =  TRUE
+2019/05/03 20:00:00       battery measurement time =  TRUE
+2019/05/04 05:00:00       battery measurement time = FALSE
+2019/05/04 05:00:00                 Computed slope = -0.00082
+2019/05/04 05:00:00                      Intercept = 25136.84200
+2019/05/04 05:00:00 Run during day disabled, reserve hours param < 0
+2019/05/04 06:00:00                        daytime =  TRUE
+2019/05/04 06:00:01                        load ON = FALSE
+2019/05/04 18:00:00                        daytime = FALSE
+2019/05/04 18:00:00                        load ON =  TRUE
+2019/05/04 20:00:00       battery measurement time =  TRUE
+2019/05/05 05:00:00       battery measurement time = FALSE
+2019/05/05 05:00:00                 Computed slope = -0.00218
+2019/05/05 05:00:01                      Intercept = 25050.72100
+2019/05/05 05:00:01 Run during day disabled, reserve hours param < 0
+2019/05/05 06:00:00                        daytime =  TRUE
+2019/05/05 06:00:00                        load ON = FALSE
+2019/05/05 18:00:00                        daytime = FALSE
+2019/05/05 18:00:01                        load ON =  TRUE
+2019/05/05 20:00:00       battery measurement time =  TRUE
+2019/05/06 05:00:00       battery measurement time = FALSE
+2019/05/06 05:00:00                 Computed slope = -0.00255
+2019/05/06 05:00:00                      Intercept = 24956.32000
+2019/05/06 05:00:00 Run during day disabled, reserve hours param < 0
+2019/05/06 06:00:00                        daytime =  TRUE
+2019/05/06 06:00:00                        load ON = FALSE
+2019/05/06 12:23:30 Overriding flag 5, new value is 1
+2019/05/06 12:23:31                        load ON =  TRUE
+2019/05/06 12:27:12 Overriding flag 5, new value is 0
+2019/05/06 12:27:13                        load ON = FALSE
+2019/05/06 15:02:56
+Compile date: May  3 2019 time: 18:00:51
+Git hash: 4f43a5be3222582cbc70189466b58e6b8767bd6b
+2019/05/06 15:02:57                        daytime =  TRUE
+2019/05/06 18:00:00                        daytime = FALSE
+2019/05/06 18:00:00                        load ON =  TRUE
