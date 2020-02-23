@@ -6,5 +6,5 @@ data = tools.readDates(["20200218"])
 abs_diff = data[:,2] - data[:,5] # absolute difference of average windpeeds
 pct_diff = abs_diff / data[:,2] # percent difference relative to anemom1
 
-counts = plt.hist(abs_diff)
+counts = plt.hist(abs_diff, bins=50)
 plt.savefig("plots/20200218_abs_diffs_hist.png")
