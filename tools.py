@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import datetime
 
 def readDate(datestring):
     """
@@ -23,4 +24,23 @@ def readDates(datestrings):
     for i in range(1, len(datestrings)):
         data = np.vstack((data, readDate(datestrings[i])))
     return data
-        
+
+def readTimes(start, stop):
+    """
+    expects unix time to start and stop reading data
+    
+    returns data within that time (to accuracy greater than a file)
+    """
+
+    times = np.arange(start, stop, 86400)
+    dates = [datetime.datetime.fromtimestamp(time) for time in times]
+    
+    datestrings = [f"{date:%Y%m%d}" for date in dates]
+
+    data = readDates(datestrings)
+
+    within_bounds = (data[:,0] > start) * (data[:,0] < stop)
+    data = data[within_bounds]
+
+    
+    
