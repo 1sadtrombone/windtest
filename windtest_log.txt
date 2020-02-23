@@ -5,7 +5,7 @@ Wind turbine, no cage, old anemometer in port 1, nearer to the turbine. Current 
 Wind turbine, caged, old anemometer in port 1 near the turbine, new anemometer in port 2 farther. Current in mA
 
 20200219 - 20200221
-Anemometers swapped 15:38 to 15:44 EST
+Anemometers swapped 15:38 to 15:44 "GMT" (1582126980.0 UNIX time)
 Wind turbine, caged, old anemometer in port 2 farther, new anemometer in port 1 near the turbine. Current in mA
 
 20200222 - 
