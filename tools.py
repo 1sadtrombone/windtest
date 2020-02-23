@@ -36,11 +36,10 @@ def readTimes(start, stop):
     dates = [datetime.datetime.fromtimestamp(time) for time in times]
     
     datestrings = [f"{date:%Y%m%d}" for date in dates]
-
     data = readDates(datestrings)
 
     within_bounds = (data[:,0] > start) * (data[:,0] < stop)
-    data = data[within_bounds]
+    return data[within_bounds]
 
     
     
