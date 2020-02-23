@@ -34,10 +34,15 @@ def readTimes(start, stop):
 
     times = np.arange(start, stop, 86400)
     dates = [datetime.datetime.fromtimestamp(time) for time in times]
+    # in case not a full day separating start and stop
+    final_date = datetime.datetime.fromtimestamp(stop)
+    if f"{dates[-1]:%Y%m%d}" != f"{final_date:%Y%m%d}":
+        dates.append(final_date)
     
     datestrings = [f"{date:%Y%m%d}" for date in dates]
+    print(datestrings)
+    
     data = readDates(datestrings)
-
     within_bounds = (data[:,0] > start) * (data[:,0] < stop)
     return data[within_bounds]
 
