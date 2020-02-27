@@ -8,5 +8,9 @@ Wind turbine, caged, old anemometer in port 1 near the turbine, new anemometer i
 Anemometers swapped 15:38 to 15:44 "GMT" (1582126980.0 UNIX time)
 Wind turbine, caged, old anemometer in port 2 farther, new anemometer in port 1 near the turbine. Current in mA
 
-20200222 - 
+20200222 - 20200227 (at 1582799273)
 Blades removed, old anemometer in port 1 near turbine, new anemometer on inside of the roof of the cage. Current in mA
+
+20200227 (at 11:24 EST) -
+Turbine blades reinstalled, old anemometer in port 1 near turbine, new anemometer removed (port 2 empty). Current in mA.
+Sample logging rate increased to once every 5 seconds, anemometer sample request rate increased to once every 2 seconds (repeated results expected).
