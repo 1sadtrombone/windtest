@@ -1,0 +1,4 @@
+Time, smpCount, Wind Speed [dm/s]_avg, Wind Speed [dm/s]_min, Wind Speed [dm/s]_max, Wind Speed 2 [dm/s]_avg, Wind Speed 2 [dm/s]_min, Wind Speed 2 [dm/s]_max, Voltage [mV]_avg, Voltage [mV]_min, Voltage [mV]_max, Current [A]_avg, Current [A]_min, Current [A]_max, Load
+1583412156, 0, nan, 2147483647, -2147483648, nan, 2147483647, -2147483648, 7744.00, 7744, 7744, 0.00, 0, 0, 1
+1583412158, 0, nan, 2147483647, -2147483648, nan, 2147483647, -2147483648, 3689.50, 3674, 3705, 0.00, 0, 0, 1
+1583412160, 0, nan, 2147483647, -2147483648, nan, 2147483647, -2147483648, 3705.00, 3705, 3705, 0.00, 0, 0, 1
